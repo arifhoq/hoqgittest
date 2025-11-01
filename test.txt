@@ -1,1 +1,3 @@
 hello!
+This is hoq.
+Do you want to learn git?
